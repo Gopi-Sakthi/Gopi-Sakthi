@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gopinath
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning SpringBoot
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on React.js and Java Projects
 - 📫 DM on Linkedin...
 <!---
